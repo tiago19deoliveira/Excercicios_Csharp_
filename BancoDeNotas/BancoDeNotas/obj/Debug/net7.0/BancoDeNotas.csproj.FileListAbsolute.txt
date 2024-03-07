@@ -1,0 +1,14 @@
+C:\Users\Lord TiagoTick\source\repos\BancoDeNotas\BancoDeNotas\obj\Debug\net7.0\BancoDeNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lord TiagoTick\source\repos\BancoDeNotas\BancoDeNotas\obj\Debug\net7.0\BancoDeNotas.AssemblyInfoInputs.cache
+C:\Users\Lord TiagoTick\source\repos\BancoDeNotas\BancoDeNotas\obj\Debug\net7.0\BancoDeNotas.AssemblyInfo.cs
+C:\Users\Lord TiagoTick\source\repos\BancoDeNotas\BancoDeNotas\obj\Debug\net7.0\BancoDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\Lord TiagoTick\source\repos\BancoDeNotas\BancoDeNotas\bin\Debug\net7.0\BancoDeNotas.exe
+C:\Users\Lord TiagoTick\source\repos\BancoDeNotas\BancoDeNotas\bin\Debug\net7.0\BancoDeNotas.deps.json
+C:\Users\Lord TiagoTick\source\repos\BancoDeNotas\BancoDeNotas\bin\Debug\net7.0\BancoDeNotas.runtimeconfig.json
+C:\Users\Lord TiagoTick\source\repos\BancoDeNotas\BancoDeNotas\bin\Debug\net7.0\BancoDeNotas.dll
+C:\Users\Lord TiagoTick\source\repos\BancoDeNotas\BancoDeNotas\bin\Debug\net7.0\BancoDeNotas.pdb
+C:\Users\Lord TiagoTick\source\repos\BancoDeNotas\BancoDeNotas\obj\Debug\net7.0\BancoDeNotas.dll
+C:\Users\Lord TiagoTick\source\repos\BancoDeNotas\BancoDeNotas\obj\Debug\net7.0\refint\BancoDeNotas.dll
+C:\Users\Lord TiagoTick\source\repos\BancoDeNotas\BancoDeNotas\obj\Debug\net7.0\BancoDeNotas.pdb
+C:\Users\Lord TiagoTick\source\repos\BancoDeNotas\BancoDeNotas\obj\Debug\net7.0\BancoDeNotas.genruntimeconfig.cache
+C:\Users\Lord TiagoTick\source\repos\BancoDeNotas\BancoDeNotas\obj\Debug\net7.0\ref\BancoDeNotas.dll
